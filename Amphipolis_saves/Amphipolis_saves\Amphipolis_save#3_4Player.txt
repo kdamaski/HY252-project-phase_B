@@ -1,0 +1,227 @@
+Player1 Player4 Player2 Player3
+Player1 false
+professor false
+digger true
+archaeologist true
+assistant false
+amphora_brown 0
+amphora_green 1
+statue_caryatid 1
+amphora_blue 1
+statue_sphinx 0
+amphora_purple 1
+skeleton_small_bottom 0
+mosaic_green 2
+skeleton_big_top 0
+skeleton_big_bottom 0
+amphora_yellow 1
+mosaic_yellow 0
+amphora_red 1
+mosaic_red 1
+skeleton_small_top 0
+End
+Player4 true
+professor true
+digger true
+archaeologist true
+assistant true
+amphora_brown 0
+amphora_green 0
+statue_caryatid 0
+amphora_blue 0
+statue_sphinx 0
+amphora_purple 0
+skeleton_small_bottom 0
+mosaic_green 0
+skeleton_big_top 0
+skeleton_big_bottom 0
+amphora_yellow 0
+mosaic_yellow 0
+amphora_red 0
+mosaic_red 0
+skeleton_small_top 0
+End
+Player2 true
+professor true
+digger true
+archaeologist true
+assistant true
+amphora_brown 0
+amphora_green 0
+statue_caryatid 0
+amphora_blue 0
+statue_sphinx 0
+amphora_purple 0
+skeleton_small_bottom 0
+mosaic_green 0
+skeleton_big_top 0
+skeleton_big_bottom 0
+amphora_yellow 0
+mosaic_yellow 0
+amphora_red 0
+mosaic_red 0
+skeleton_small_top 0
+End
+Player3 true
+professor true
+digger true
+archaeologist true
+assistant true
+amphora_brown 0
+amphora_green 0
+statue_caryatid 0
+amphora_blue 0
+statue_sphinx 0
+amphora_purple 0
+skeleton_small_bottom 0
+mosaic_green 0
+skeleton_big_top 0
+skeleton_big_bottom 0
+amphora_yellow 0
+mosaic_yellow 0
+amphora_red 0
+mosaic_red 0
+skeleton_small_top 0
+End
+index 2
+landslides 14
+activetiles
+amphora_brown 0
+amphora_green 0
+statue_caryatid 0
+amphora_blue 0
+statue_sphinx 0
+amphora_purple 0
+skeleton_small_bottom 0
+mosaic_green 0
+skeleton_big_top 2
+skeleton_big_bottom 0
+amphora_yellow 0
+mosaic_yellow 0
+amphora_red 0
+mosaic_red 0
+skeleton_small_top 0
+Bag
+skeleton_big_top
+mosaic_green
+statue_sphinx
+landslides
+skeleton_big_bottom
+skeleton_small_bottom
+amphora_purple
+statue_sphinx
+mosaic_green
+amphora_red
+skeleton_big_top
+mosaic_yellow
+amphora_red
+amphora_blue
+statue_sphinx
+amphora_purple
+statue_caryatid
+statue_sphinx
+mosaic_red
+landslides
+mosaic_red
+amphora_red
+mosaic_yellow
+statue_sphinx
+landslides
+statue_caryatid
+landslides
+landslides
+mosaic_red
+amphora_purple
+statue_sphinx
+landslides
+statue_caryatid
+skeleton_small_top
+amphora_brown
+amphora_yellow
+skeleton_big_top
+mosaic_yellow
+skeleton_big_top
+mosaic_yellow
+landslides
+mosaic_red
+landslides
+amphora_brown
+skeleton_small_bottom
+mosaic_yellow
+mosaic_green
+skeleton_small_top
+statue_sphinx
+mosaic_red
+amphora_green
+skeleton_big_top
+skeleton_big_top
+skeleton_small_bottom
+skeleton_big_bottom
+mosaic_green
+mosaic_yellow
+statue_sphinx
+landslides
+mosaic_yellow
+landslides
+skeleton_big_bottom
+skeleton_big_top
+skeleton_big_bottom
+amphora_yellow
+mosaic_red
+amphora_brown
+statue_caryatid
+amphora_blue
+skeleton_big_top
+statue_caryatid
+amphora_yellow
+skeleton_big_bottom
+mosaic_yellow
+skeleton_big_bottom
+skeleton_small_top
+statue_caryatid
+amphora_yellow
+skeleton_big_bottom
+landslides
+statue_caryatid
+skeleton_big_bottom
+statue_caryatid
+landslides
+skeleton_big_bottom
+mosaic_red
+landslides
+amphora_purple
+landslides
+statue_sphinx
+amphora_green
+skeleton_small_top
+landslides
+mosaic_green
+landslides
+amphora_green
+landslides
+skeleton_small_bottom
+amphora_green
+statue_sphinx
+mosaic_green
+landslides
+statue_sphinx
+mosaic_red
+mosaic_yellow
+amphora_blue
+statue_caryatid
+mosaic_green
+amphora_red
+amphora_brown
+landslides
+skeleton_small_bottom
+skeleton_big_bottom
+landslides
+landslides
+landslides
+statue_sphinx
+amphora_brown
+statue_caryatid
+skeleton_small_top
+landslides
+statue_caryatid
+amphora_blue
